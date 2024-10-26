@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caliphdev/filezone"
+    "url": "git+https://github.com/nimesh-piyumal/filezone"
   },
   "keywords": [],
   "author": "caliphdev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/caliphdev/filezone"
+    "url": "https://github.com/nimesh-piyumal/filezone"
   },
-  "homepage": "https://github.com/caliphdev/filezone",
+  "homepage": "https://github.com/nimesh-piyumal/filezone",
   "dependencies": {
     "axios": "^0.21.4",
     "chalk": "^4.1.0",
@@ -25,12 +25,12 @@
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
-    "ejs": "github:caliphdev/ejs",
+    "ejs": "^3.1.10",
     "express": "^4.17.1",
     "form-data": "^4.0.0",
     "morgan": "^1.10.0",
     "multer": "^1.4.3",
     "path": "^0.12.7",
-    "serve-index": "github:caliphdev/serve-index"
+    "serve-index": "^1.9.1"
   }
 }
